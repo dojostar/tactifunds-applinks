@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4Q5VSY4VCY.TactiFunds"],
+        "components": [
+          {
+            "/": "/auth/reset*",
+            "comment": "Password reset universal link"
+          }
+        ]
+      }
+    ]
+  }
+}
